@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name"> # Sa Meua App # </string>
+    <string name="hello_world_text"> * Hola, Albertinyu 20171023 * </string>
+    <string name="random_heading">RandNum between 0 and %1d</string>
+</resources>
